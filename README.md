@@ -1,4 +1,6 @@
-EIE3105_ATmega328P_Application
-==============================
-### Reference
-- [Optimize Options (Using the GNU Compiler Collection (GCC))](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
+EIE3105_Debounce_Test
+=====================
+### Notes
+- 104 cap should be ok
+- 10k for pull-up / pull-down
+- RC circuit (second resister for debouncing both edges) looks like a voltage divider
