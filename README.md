@@ -1,6 +1,7 @@
 EIE3105_Debounce_Test
 =====================
 ### Notes
+- **Only oscilloscope can display bouncy signal**, MCU's ADC and cheap ADC ICs cannot
 - 104 cap should be ok
 - 10k for pull-up / pull-down
 - RC circuit (second resister for debouncing both edges) looks like a voltage divider
