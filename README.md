@@ -18,3 +18,6 @@ EIE3105_Debounce_Test
 
 ### Simulations
 - [**Simulating Arduino Using Proteus - 4 (Key Debouncing) - YouTube**](https://www.youtube.com/watch?v=8gVQI21X6Ns)
+
+### TODOs
+- [ ] what is the ampere value of 3v3 port (100-150mA?)
