@@ -28,6 +28,9 @@ EIE3105_Debounce_Test
 <img src="2c07a75e-213e-452e-8a4e-b7307a6b5d41.jpg" alt="image" width="500" height="auto">
 <img src="96f9e676-328e-430a-b68e-e6e081534d8d.jpg" alt="image" width="500" height="auto">
 
+### Potential PCB
+<img src="PCB_PCB_Debouncing_5_2023-12-04.svg" alt="image" width="500" height="auto">
+
 ### Simulations
 - [**Simulating Arduino Using Proteus - 4 (Key Debouncing) - YouTube**](https://www.youtube.com/watch?v=8gVQI21X6Ns)
 
