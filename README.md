@@ -15,6 +15,12 @@ EIE3105_Debounce_Test
 - Schmitt trigger
   - [Schmitt trigger using IC 741 - Study of IC's - Application of Electronics - YouTube](https://www.youtube.com/watch?v=gFp9vttbFLQ)
   - **https://eopcw.com/assets/stores/Electrical%20Engineering%20Laboratory%20III/lecturenote_520626135Exp%209.pdf**
+  - equation
+    - <img src="b46853f9-5c62-4371-baa0-65f7d78935a5.jpg" alt="image" width="500" height="auto">
+
+### Bouncy signal
+<img src="2c07a75e-213e-452e-8a4e-b7307a6b5d41.jpg" alt="image" width="500" height="auto">
+<img src="96f9e676-328e-430a-b68e-e6e081534d8d.jpg" alt="image" width="500" height="auto">
 
 ### Simulations
 - [**Simulating Arduino Using Proteus - 4 (Key Debouncing) - YouTube**](https://www.youtube.com/watch?v=8gVQI21X6Ns)
