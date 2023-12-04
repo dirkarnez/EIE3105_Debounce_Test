@@ -18,6 +18,9 @@ EIE3105_Debounce_Test
   - equation
     - <img src="b46853f9-5c62-4371-baa0-65f7d78935a5.jpg" alt="image" width="500" height="auto">
 
+### Arduino UNO basic specification
+- [Arduino Uno Rev3 — Arduino Online Shop](https://store-usa.arduino.cc/products/arduino-uno-rev3#product-tech)
+
 ### 3V3 on current measurement
 <img src="320cb9e8-10ae-4a8f-99ac-6dd2867a08b0.jpg" alt="image" width="500" height="auto">
 
