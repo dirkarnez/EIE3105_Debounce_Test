@@ -18,6 +18,9 @@ EIE3105_Debounce_Test
   - equation
     - <img src="b46853f9-5c62-4371-baa0-65f7d78935a5.jpg" alt="image" width="500" height="auto">
 
+### 3V3 on current measurement
+<img src="320cb9e8-10ae-4a8f-99ac-6dd2867a08b0.jpg" alt="image" width="500" height="auto">
+
 ### Bouncy signal
 <img src="2c07a75e-213e-452e-8a4e-b7307a6b5d41.jpg" alt="image" width="500" height="auto">
 <img src="96f9e676-328e-430a-b68e-e6e081534d8d.jpg" alt="image" width="500" height="auto">
