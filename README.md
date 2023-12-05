@@ -24,9 +24,14 @@ EIE3105_Debounce_Test
 ### 3V3 on current measurement
 <img src="320cb9e8-10ae-4a8f-99ac-6dd2867a08b0.jpg" alt="image" width="500" height="auto">
 
-### Bouncy signal
+### Bouncy signal (before)
 <img src="2c07a75e-213e-452e-8a4e-b7307a6b5d41.jpg" alt="image" width="500" height="auto">
 <img src="96f9e676-328e-430a-b68e-e6e081534d8d.jpg" alt="image" width="500" height="auto">
+
+### After
+<img src="dd30f2c0-efd1-41f8-aa0c-fe689390a6eb.jpg" alt="image" width="500" height="auto">
+<img src="60b39ed6-c915-4c64-90a8-9b4a0d774ea1.jpg" alt="image" width="500" height="auto">
+<img src="0497a303-a708-4fbe-810d-f63ead544f55.jpg" alt="image" width="500" height="auto">
 
 ### Potential PCB
 <img src="PCB_PCB_Debouncing_5_2023-12-04.svg" alt="image" width="500" height="auto">
